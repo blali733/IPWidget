@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IPWidget</string>
+    <string name="conn_name">No</string>
+    <string name="ip_v4">connection!</string>
+</resources>
